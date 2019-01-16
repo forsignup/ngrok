@@ -5,7 +5,7 @@ import (
 	"crypto/tls"
 	"encoding/base64"
 	"fmt"
-	vhost "github.com/inconshreveable/go-vhost"
+	"github.com/inconshreveable/go-vhost"
 	"io"
 	"math/rand"
 	"net"
