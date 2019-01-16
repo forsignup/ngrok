@@ -4,7 +4,7 @@ import (
 	"crypto/tls"
 	"math/rand"
 	"ngrok/conn"
-	log "ngrok/log"
+	"ngrok/log"
 	"ngrok/msg"
 	"ngrok/util"
 	"os"
